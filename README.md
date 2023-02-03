@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/57999461-2350-4da3-8788-ca4e0e6dcb30/deploy-status)](https://app.netlify.com/sites/naviromishra/deploys)
 
-Source code for [naviromishra19.github.io] (https://naviromishra19.github.io) (https://naviromishra.netlify.app) y personal website.
+Source code for [naviromishra19.github.io] (https://naviromishra19.github.io) (https://naviromishra.netlify.app) my personal website.
 
 ## License
 
